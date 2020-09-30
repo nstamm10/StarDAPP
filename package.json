@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/nstamm10/StarDAPP#readme",
   "dependencies": {
+    "mz": "^2.7.0",
     "truffle-hdwallet-provider": "^1.0.0-web3one.5"
   }
 }
