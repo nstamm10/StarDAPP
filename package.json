@@ -1,0 +1,22 @@
+{
+  "name": "stardapp",
+  "version": "1.0.0",
+  "description": "This DAPP takes star objects from an ethereum blockchain and creates functionality with smart contracts.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nstamm10/StarDAPP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nstamm10/StarDAPP/issues"
+  },
+  "homepage": "https://github.com/nstamm10/StarDAPP#readme"
+}
