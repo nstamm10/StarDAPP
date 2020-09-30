@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nstamm10/StarDAPP/issues"
   },
-  "homepage": "https://github.com/nstamm10/StarDAPP#readme"
+  "homepage": "https://github.com/nstamm10/StarDAPP#readme",
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.0-web3one.5"
+  }
 }
